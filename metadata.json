@@ -1,0 +1,6 @@
+{
+  "name": "LeadFlow.ai - AI Lead Qualification & Pipeline Automation",
+  "description": "High-performance lead qualification and pipeline automation for commercial service operators, clinics, and multi-location businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
